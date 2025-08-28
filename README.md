@@ -1,4 +1,8 @@
 <div align="center">
+   ## 📸 Project Demo
+
+![RateCraft UI](Screenshot%20(41).png)
+
 </div>
 
 # Run and deploy your AI Studio app
