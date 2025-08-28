@@ -3,7 +3,7 @@
 
 </div>
 
-# Run and deploy your AI Studio app
+# Run RateCraft
 ## Run Locally
 
 **Prerequisites:**  Node.js
