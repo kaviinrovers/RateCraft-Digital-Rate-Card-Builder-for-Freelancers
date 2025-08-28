@@ -1,7 +1,5 @@
-<div align="center">
-   ## 📸 Project Demo
-
-![RateCraft UI](Screenshot%20(41).png)
+<div align="center/>
+![RateCraft UI](https://raw.githubusercontent.com/YourUsername/YourRepo/main/Screenshot%20(41).png)
 
 </div>
 
